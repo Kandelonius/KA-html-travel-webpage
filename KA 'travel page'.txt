@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            body {
+                background-color: rgb(86, 115, 5);
+            }
+            p{
+                background-color:rgb(237, 0, 0);
+            }
+            ul{
+                background-color: rgb(214, 192, 47);
+            }
+            .orange-stripe {
+                background-color: orange;
+            }
+            
+        </style>
+    </head>
+        
+    <body>
+    
+        <h1 class="orange-stripe">Travel to Islay Scotland</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Distilleries_Islay_updated_2011.png" width= "400">
+        
+        <p>
+        Travel to the <em>windy</em> shores of Islay Scotland where some of the most iconic whiskys in the world are produced. From Ardbag to Port Charlotte you'll find spirits that are mixed to create beloved blends and many that are enjoyed on their own.
+        </p>
+        <h2 class="orange-stripe">Popular distilleries include:</h2>
+        <ul>
+            Laphraoig <br>
+            Lagavulin <br>
+            Caol Ila <br>
+            Ardbag
+        </ul>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Scotch_regions.svg/1024px-Scotch_regions.svg.png" width="300">
+        <h3 class="orange-stripe">Other regions of Scotland include:</h3>
+        <ul>
+            Highlands <br>
+            Lowlands <br>
+            Speyside <br>
+            Islands
+        </ul>
+        <p>
+        I hope to visit Islay some day and take in more than just the whisky culture. Scotland has a deep history that includes royalty and art. Scotland is also one of the places helping to keep the Gaelic language alive.
+        </p>
+        <h4 class="orange-stripe">They even have rabbits</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Lepus_timidus_01-cropped.jpg">
+        <h6>*This is an impression of Islay I have as somebody who has never been there.</h6>
+        
+    </body>
+</html>
